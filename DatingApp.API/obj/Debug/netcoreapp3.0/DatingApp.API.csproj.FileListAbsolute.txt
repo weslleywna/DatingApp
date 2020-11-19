@@ -1,6 +1,5 @@
 C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
 C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.json
-C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.exe
 C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.deps.json
 C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.runtimeconfig.json
@@ -100,3 +99,6 @@ C:\Users\wnaraujo\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\
 C:\Users\wnaraujo\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
 C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
 C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\scopedcss\bundle\DatingApp.API.styles.css
+C:\Users\wesll\Documents\Git\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.genruntimeconfig.cache
